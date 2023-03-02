@@ -1,4 +1,3 @@
 @library('roboshop') _
 
- ci()
-
+ci()
